@@ -1,0 +1,10 @@
+valor01=10
+valor02=50
+multiplicacao=10*50
+
+print(valor01*valor02)
+
+print(10*50)
+
+print(multiplicacao)
+
