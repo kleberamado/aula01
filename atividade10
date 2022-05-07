@@ -1,0 +1,15 @@
+n1=float(input("Número 01 = "))
+n2=float(input("Número 02 = "))
+
+soma=n1+n2
+sub=n1-n2
+mult=n1*n2
+div=n1/n2
+med=(n1+n2)/2
+
+print("A Soma entre eles é igual a",soma)
+print("A Subtração entre eles é igual a",sub)
+print("A Multiplicação entre eles é igual a",mult)
+print("A Divisão entre eles é igual a",div)
+print("A Média entre eles é igual a",med)
+
