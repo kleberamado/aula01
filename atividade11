@@ -1,0 +1,6 @@
+n1=int(input("Os 3 primeiros números do CPF "))
+n2=int(input("Os 3 numeros do meio do CPF "))
+n3=int(input("Os 3 ultimos números do CPF "))
+n4=int(input("Os 2 digitos do CPF "))
+
+print(n1,n2,n3,sep="."),print("-",n4)
