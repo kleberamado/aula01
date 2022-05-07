@@ -1,0 +1,6 @@
+n1=int(input("Diga um número inteiro "))
+n2=int(input("Diga outro número inteiro "))
+
+print("a soma deles é igual a",n1+n2)
+print("a média deles é igual a",(n1+n2)/2)
+
